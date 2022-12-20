@@ -1,4 +1,4 @@
-# Machine_Learning_Assignments.ipynb
+# Linear_Aggression_ML.ipynb
 
 
-Linear_Aggression_ML.ipynb
+# Logistic_Regression_ML.ipynb
